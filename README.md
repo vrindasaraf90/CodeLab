@@ -2,7 +2,7 @@
 Created a basic UI
 
 APK 
-https://github.com/vrindasaraf90/CodeLab/releases/download/V1.2B/app-debug1.2B.apk
+https://github.com/vrindasaraf90/CodeLab/releases/download/V1.3/app-debug1.2B.apk
 
 
 
