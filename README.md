@@ -4,7 +4,7 @@ Simple app with two buttons: one to count and one to show a Toast.
 
 APK
 - CodeLAb 1.2 Part A
-- https://github.com/vrindasaraf90/CodeLab/releases/download/V1.2A/app-debug.apk
+- https://github.com/vrindasaraf90/CodeLab/releases/download/V1.3/app-debug.apk
 
 
 
